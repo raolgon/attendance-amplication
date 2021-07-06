@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.7.0",
+  "appInfo": {
+    "name": "attendance",
+    "description": "App para gurdar asistencias",
+    "version": "mhrhortv",
+    "id": "ckqr0a2m83110421bs6jftphs8w",
+    "url": "https://app.amplication.com/ckqr0a2m83110421bs6jftphs8w",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckqr0a2m83110421bs6jftphs8w"
+    }
+  }
+}
